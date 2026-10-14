@@ -1,0 +1,17 @@
+{
+  "name": "Underplate \u2014 Dinner Deals Near You",
+  "short_name": "Underplate",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5ebd8",
+  "theme_color": "#174c3b",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
